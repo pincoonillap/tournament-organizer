@@ -1,0 +1,18 @@
+#summary Deliverables
+
+= Introduction =
+
+Project specific deliverable items.
+
+
+= Details =
+
+Default:
+  (1)Interim Status Reports, 
+  (2)Final Project Report, 
+  (3)Project Presentation
+
+Project Specific:
+  (1)Sketch of anticipated GUI layout
+  (2)Core program that provides basic functionality for organizing tournaments, and includes record-storing facilities
+  (3)Plug-ins that will serve as templates for specific types of games, and which will run seamlessly with core program
