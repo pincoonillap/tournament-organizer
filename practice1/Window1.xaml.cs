@@ -23,5 +23,15 @@ namespace practice1
         {
             InitializeComponent();
         }
+
+        private void textBox_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            btn1.Content = "test";
+        }
     }
 }
