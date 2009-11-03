@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Scope of Work for project - what *will* be done and what *will not* be done
+Scope of Work for project - what *will* be done and what *will not* be done in this specific project.
 
 
 = Details =
