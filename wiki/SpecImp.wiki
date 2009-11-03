@@ -1,0 +1,16 @@
+#summary Specification and Implementation Plan
+
+= Introduction =
+
+Specification and Implementation Plan.
+
+
+= Details =
+
+  *  Determine programming language(s), production environments, version control system, and project hosting site
+  *  Determine group roles (project leader, lead architect, recorder/secretary, source code control specialist, etc.)
+  *  Implement mySQL database for storing player and tournament information
+  *  Implement plug-ins for no less than three different types of games
+  *  Develop a GUI for core program
+  *  Create finalized core program
+  *  Implement serialization into XML
