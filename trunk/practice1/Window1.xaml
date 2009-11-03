@@ -1,10 +1,10 @@
 ﻿<Window x:Class="practice1.Window1"
-//wut
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="Window1" Height="768" Width="1024" xmlns:chartingToolkit="clr-namespace:System.Windows.Controls.DataVisualization.Charting;assembly=System.Windows.Controls.DataVisualization.Toolkit">
     <Grid>
-        <TextBox Height="23" Text="test" HorizontalAlignment="Left" Margin="100,86,0,0" VerticalAlignment="Top" Width="120" x:Name="textBox"/>
-        <Label Height="28" Margin="210,167,419,0" Name="label1" VerticalAlignment="Top" Content="{Binding Text, ElementName=textBox}"></Label>
+        <TextBox Height="23" Text="test" HorizontalAlignment="Left" Margin="100,86,0,0" VerticalAlignment="Top" Width="120" x:Name="textBox" TextChanged="textBox_TextChanged" />
+        <Label Height="28" Margin="100,172,0,0" Name="label1" VerticalAlignment="Top" Content="{Binding Text, ElementName=textBox}" HorizontalAlignment="Left" Width="373"></Label>
+        <Button Height="23" HorizontalAlignment="Left" Margin="100,253,0,0" Name="btn1" VerticalAlignment="Top" Width="75" Click="button1_Click">Button</Button>
     </Grid>
 </Window>
