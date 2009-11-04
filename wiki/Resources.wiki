@@ -7,8 +7,8 @@ Any resources, existing software, help, etc
 
 = Details =
 
-  # Knowledge of how tournaments are run
-  # Knowledge of how different types of games are played
+  * Knowledge of how tournaments are run
+  * Knowledge of how different types of games are played
   * XML construction software
   * Software that builds Windows Presentation Foundation (WPF) applications for the core program’s GUI
   * References to mySQL database to store player and tournament information
