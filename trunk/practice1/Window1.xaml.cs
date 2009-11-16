@@ -29,9 +29,9 @@ namespace practice1
 
         }
 
-        private void button1_Click(object sender, RoutedEventArgs e)
+        private void Open_Click(object sender, RoutedEventArgs e)
         {
-            btn1.Content = "test";
+
         }
     }
 }
