@@ -1,0 +1,26 @@
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\bin\Debug\WpfExplorerTreeNoConverter.exe
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\bin\Debug\WpfExplorerTreeNoConverter.pdb
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\Window1.g.cs
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\App.g.cs
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter_MarkupCompile.cache
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter_MarkupCompile.lref
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\Window1.baml
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.g.resources
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.Properties.Resources.resources
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.csproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.exe
+C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.exe
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\bin\Debug\WpfExplorerTreeNoConverter.exe
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\bin\Debug\WpfExplorerTreeNoConverter.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\Window1.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\App.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter_MarkupCompile.cache
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter_MarkupCompile.lref
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\Window1.baml
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.g.resources
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.Properties.Resources.resources
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter\obj\Debug\WpfExplorerTreeNoConverter.csproj.GenerateResource.Cache

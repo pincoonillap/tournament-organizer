@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WpfExplorerTreeNoConverter">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.sln">
+</Property><Property Name="Date" Value="Monday, November 23, 2009">
+</Property><Property Name="Time" Value="13:50 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WpfExplorerTreeNoConverter.sln" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter.sln">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.csproj" Description="Project file successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.csproj">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\App.xaml.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Window1.xaml.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Properties\Resources.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Properties\Resources.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Properties\Settings.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Properties\Settings.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\TreeViewItemProps.cs" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\TreeViewItemProps.cs">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Properties\Settings.settings" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Properties\Resources.resx" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\App.xaml" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\App.xaml">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\Window1.xaml" Description="File successfully backed up as C:\Documents and Settings\DSU\Desktop\WpfExplorerTreeNoConverter\Backup\WpfExplorerTreeNoConverter\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WpfExplorerTreeNoConverter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WpfExplorerTreeNoConverter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WpfExplorerTreeNoConverter" Source="WpfExplorerTreeNoConverter\WpfExplorerTreeNoConverter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
