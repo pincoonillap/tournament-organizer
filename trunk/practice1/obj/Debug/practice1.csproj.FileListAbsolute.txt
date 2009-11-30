@@ -30,3 +30,4 @@ C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySourc
 C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\practice1\obj\Debug\practice1.g.resources
 C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\practice1\obj\Debug\practice1.Properties.Resources.resources
 C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\practice1\obj\Debug\practice1.csproj.GenerateResource.Cache
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\practice1\obj\Debug\practice1_MarkupCompile.lref
