@@ -1,0 +1,56 @@
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+F:\Manoj\learning\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+F:\Manoj\learning\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\ResolveAssemblyReference.cache
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\FileTree.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.baml
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.baml
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.baml
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\View\FileTree.baml
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+F:\Manoj\learning\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+E:\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+E:\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+E:\FileExplorer\FileExplorer\obj\Debug\ResolveAssemblyReference.cache
+E:\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.g.cs
+E:\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.g.cs
+E:\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.g.cs
+E:\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+E:\FileExplorer\FileExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+E:\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.baml
+E:\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.baml
+E:\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.baml
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+E:\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer.exe
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\bin\Debug\FileExplorer.exe
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\bin\Debug\FileExplorer.pdb
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\App.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.cache
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer_MarkupCompile.lref
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\DirectoryViewer.baml
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\ExplorerWindow.baml
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\View\FileSystemTree.baml
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer.g.resources
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer.Properties.Resources.resources
+C:\Documents and Settings\DSU\My Documents\Fall-09\software\Project\TourneySource\FileExplorer\FileExplorer\obj\Debug\FileExplorer.csproj.GenerateResource.Cache
