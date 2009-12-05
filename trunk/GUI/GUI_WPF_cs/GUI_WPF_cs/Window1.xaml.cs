@@ -26,7 +26,7 @@ namespace GUI_WPF_cs
 
         private void button1_Click(object sender, RoutedEventArgs e)
         {
-            textBox1.Text = "Hello WPF!";
+            //textBox1.Text = "Hello WPF!";
         }
     }
 }
