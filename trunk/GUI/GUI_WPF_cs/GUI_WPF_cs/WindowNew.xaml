@@ -5,10 +5,10 @@
     <Grid Background="SteelBlue">
         <Label FontSize="30" Height="43" Margin="183,-13,178,0" Name="labelTournamentOrganizer" VerticalAlignment="Top">New</Label>
         <Label FontSize="20" Height="34" Margin="174,23,170,0" Name="label1" VerticalAlignment="Top">CSC-470</Label>
-        <Button Height="23" Margin="44,56,0,0" Name="buttonHome" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75">Home</Button>
-        <Button Height="23" Margin="137,56,0,0" Name="buttonNew" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75">New</Button>
-        <Button Margin="0,56,139,0" Name="buttonOpen" Height="23" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75">Open</Button>
-        <Button Height="23" Margin="0,56,48,0" Name="buttonExit" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75">Exit</Button>
+        <Button Height="23" Margin="44,63,0,0" Name="buttonHome" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75">Home</Button>
+        <Button Height="23" Margin="137,63,0,0" Name="buttonNew" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75">New</Button>
+        <Button Margin="0,63,139,0" Name="buttonOpen" Height="23" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75">Open</Button>
+        <Button Height="23" Margin="0,63,48,0" Name="buttonExit" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75">Exit</Button>
         <TabControl Margin="162,111,31,30" Name="tabControl1">
             <TabItem>Game Specific Options</TabItem>
             <TabItem>Loading Players</TabItem>
