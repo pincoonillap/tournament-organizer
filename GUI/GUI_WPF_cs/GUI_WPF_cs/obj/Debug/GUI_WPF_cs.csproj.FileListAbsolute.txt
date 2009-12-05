@@ -1,0 +1,12 @@
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\bin\Debug\GUI_WPF_cs.exe
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\bin\Debug\GUI_WPF_cs.pdb
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Window1.baml
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Window1.g.cs
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\App.g.cs
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs_MarkupCompile.cache
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.g.resources
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.Properties.Resources.resources
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.csproj.GenerateResource.Cache
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.exe
+C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.pdb
