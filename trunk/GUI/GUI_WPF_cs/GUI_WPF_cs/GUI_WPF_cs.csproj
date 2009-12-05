@@ -102,6 +102,8 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="TreeViewItemProps.cs" />
+    <Compile Include="Window1.xaml.cs" />
     <Compile Include="WindowExit.xaml.cs">
       <DependentUpon>WindowExit.xaml</DependentUpon>
     </Compile>
