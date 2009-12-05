@@ -9,13 +9,13 @@
         <Label Margin="150,-10,152,0" Name="labelTournamentOrganizer" FontSize="30" Height="54" VerticalAlignment="Top">Tournament Organizer</Label>
         <Label FontSize="20" Height="34" Margin="266.135,26,268.135,0" Name="labelCSC470" VerticalAlignment="Top">CSC-470</Label>
         <Button Height="23" HorizontalAlignment="Right" Margin="0,70,128,0" Name="buttonExit" VerticalAlignment="Top" Width="75">Exit</Button>
-        <Border Margin="11,115,0,14" Name="borderNTO" HorizontalAlignment="Left" Width="293" BorderThickness="2" Opacity="1" BorderBrush="LightGray">
+        <Border Margin="11,146,0,14" Name="borderNTO" HorizontalAlignment="Left" Width="293" BorderThickness="2" Opacity="1" BorderBrush="LightGray">
             <Border.BitmapEffect>
                 <DropShadowBitmapEffect Color="Black" />
             </Border.BitmapEffect>
             <Label Height="29" Name="labelOptions" Width="188">New tournament options go here</Label>
         </Border>
-        <Border Name="borderOTO" Width="287" HorizontalAlignment="Right" Margin="0,115,14,14" BorderThickness="2" BorderBrush="LightGray">
+        <Border Name="borderOTO" Width="287" HorizontalAlignment="Right" Margin="0,146,14,14" BorderThickness="2" BorderBrush="LightGray">
             <Border.BitmapEffect>
                 <DropShadowBitmapEffect />
             </Border.BitmapEffect>
@@ -23,5 +23,7 @@
         </Border>
         <Image Height="71" HorizontalAlignment="Left" Margin="13,15,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="101" Source="file:///C:/Users/ajp/Desktop/Classes/Tournament Organizer/Code/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" />
         <Image Height="71" HorizontalAlignment="Right" Margin="0,15,14,0" Name="image2" Source="file:///C:/Users/ajp/Desktop/Classes/Tournament Organizer/Code/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" Stretch="Fill" VerticalAlignment="Top" Width="101" />
+        <Label FontSize="12" Height="26" Margin="168,109,310,0" Name="labelProgress" VerticalAlignment="Top">Tournament Completion:</Label>
+        <ProgressBar Height="15" Margin="0,117,179,0" Name="progressBar1" VerticalAlignment="Top" HorizontalAlignment="Right" Width="124" />
     </Grid>
 </Window>
