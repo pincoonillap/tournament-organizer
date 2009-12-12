@@ -4,15 +4,15 @@
 winexe
 C#
 .cs
-C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\
 GUI_WPF_cs
 none
 false
 DEBUG;TRACE
-C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\App.xaml
-4-25913759
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\App.xaml
+8-375843460
 
-8943388592
-10-647482007
-WindowExit.xaml;WindowHome.xaml;WindowNew.xaml;WindowOpen.xaml;
+121208127164
+11-1760218801
+Content\stuffHome.xaml;Content\stuffNew.xaml;Content\stuffOpen.xaml;Window1.xaml;WindowExit.xaml;WindowHome.xaml;WindowNew.xaml;WindowOpen.xaml;
 

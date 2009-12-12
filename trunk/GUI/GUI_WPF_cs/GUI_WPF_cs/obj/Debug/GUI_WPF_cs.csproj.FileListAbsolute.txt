@@ -16,3 +16,32 @@ C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs
 C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowHome.g.cs
 C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowNew.g.cs
 C:\Users\ajp\Desktop\Classes\Tournament Organizer\Code\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowOpen.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.exe
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.pdb
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\bin\Debug\GUI_WPF_cs.exe
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\bin\Debug\GUI_WPF_cs.pdb
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\ResolveAssemblyReference.cache
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowExit.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowHome.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowNew.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowOpen.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowExit.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowHome.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowNew.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\WindowOpen.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\App.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs_MarkupCompile.cache
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.g.resources
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.Properties.Resources.resources
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs.csproj.GenerateResource.Cache
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\bin\Debug\WPF.MDI.dll
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Window1.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Window1.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GUI_WPF_cs_MarkupCompile.lref
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffHome.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffNew.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffOpen.baml
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffHome.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffNew.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\Content\stuffOpen.g.cs
+D:\software\GUI\GUI_WPF_cs\GUI_WPF_cs\obj\Debug\GeneratedInternalTypeHelper.g.cs
