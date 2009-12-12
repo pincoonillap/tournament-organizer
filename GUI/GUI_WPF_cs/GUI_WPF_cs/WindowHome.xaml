@@ -1,6 +1,7 @@
 ﻿<Window x:Class="GUI_WPF_cs.WindowHome"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:cust="GUI_WPF_cs"
     Title="WindowHome" Height="549" Width="642">
     <Grid Background="SteelBlue">
         <Button HorizontalAlignment="Left" Margin="132,70,0,0" Name="buttonHome" Width="75" Height="23" VerticalAlignment="Top" Click="buttonHome_Click">Home</Button>
@@ -21,8 +22,8 @@
             </Border.BitmapEffect>
             <Label Height="29" Name="labelOpen" Width="197">Open tournament options go here</Label>
         </Border>
-        <Image Height="71" HorizontalAlignment="Left" Margin="13,15,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="101" Source="file:///C:/Users/ajp/Desktop/Classes/Tournament Organizer/Code/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" />
-        <Image Height="71" HorizontalAlignment="Right" Margin="0,15,14,0" Name="image2" Source="file:///C:/Users/ajp/Desktop/Classes/Tournament Organizer/Code/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" Stretch="Fill" VerticalAlignment="Top" Width="101" />
+        <Image Height="71" HorizontalAlignment="Left" Margin="13,15,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="101" Source="file:///D:/software/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" />
+        <Image Height="71" HorizontalAlignment="Right" Margin="0,15,14,0" Name="image2" Source="file:///D:/software/GUI/GUI_WPF_cs/GUI_WPF_cs/dsu_logo-2colors.gif" Stretch="Fill" VerticalAlignment="Top" Width="101" />
         <Label FontSize="12" Height="26" Margin="168,109,310,0" Name="labelProgress" VerticalAlignment="Top">Tournament Completion:</Label>
         <ProgressBar Height="15" Margin="0,117,179,0" Name="progressBar1" VerticalAlignment="Top" HorizontalAlignment="Right" Width="124" />
     </Grid>
