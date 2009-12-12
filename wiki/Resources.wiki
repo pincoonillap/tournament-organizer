@@ -11,7 +11,6 @@ Any resources, existing software, help, etc
   * Knowledge of how different types of games are played
   * XML construction software
   * Software that builds Windows Presentation Foundation (WPF) applications for the core program’s GUI
-  * References to mySQL database to store player and tournament information
   * A C# production environment
   * Google Code for project hosting
   * Subversion with Tortoise add-on for version control
