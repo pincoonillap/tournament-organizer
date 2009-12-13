@@ -16,3 +16,21 @@ C:\Documents and Settings\DSU\My Documents\Visual Studio 2010\Projects\Results\R
 C:\Documents and Settings\DSU\My Documents\Visual Studio 2010\Projects\Results\Results\obj\x86\Debug\TourneyResults.baml
 C:\Documents and Settings\DSU\My Documents\Visual Studio 2010\Projects\Results\Results\obj\x86\Debug\MainWindow.g.cs
 C:\Documents and Settings\DSU\My Documents\Visual Studio 2010\Projects\Results\Results\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\bin\Debug\Results.exe.config
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\Results.exe
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\Results.pdb
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\bin\Debug\Results.exe
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\bin\Debug\Results.pdb
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\TourneyResults.g.cs
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\App.g.cs
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\Results_MarkupCompile.cache
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\Results_MarkupCompile.lref
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\TourneyResults.baml
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\Results.g.resources
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\DSU\Desktop\tournament-organizer\Results\Results\obj\x86\Debug\GenerateResource.write.1.tlog
