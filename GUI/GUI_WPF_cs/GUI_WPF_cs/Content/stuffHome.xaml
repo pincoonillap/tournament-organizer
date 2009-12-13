@@ -4,7 +4,7 @@
     Height="549" Width="642">
         <Grid Background="SteelBlue" Height="549" Width="642">
             <Button HorizontalAlignment="Left" Margin="132,70,0,0" Name="buttonHome" Width="75" Height="23" VerticalAlignment="Top">Home</Button>
-            <Button Margin="227,70,0,0" Name="buttonNew" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75">New</Button>
+            <Button Margin="227,70,0,0" Name="buttonNew" Height="23" VerticalAlignment="Top" HorizontalAlignment="Left" Width="75" Click="buttonNew_Click">New</Button>
             <Button Margin="0,70,223,0" Name="buttonOpen" Height="23" VerticalAlignment="Top" HorizontalAlignment="Right" Width="75">Open</Button>
             <Label Margin="150,-10,152,0" Name="labelTournamentOrganizer" FontSize="30" Height="54" VerticalAlignment="Top">Tournament Organizer</Label>
             <Label FontSize="20" Height="34" Margin="266.135,26,268.135,0" Name="labelCSC470" VerticalAlignment="Top">CSC-470</Label>
