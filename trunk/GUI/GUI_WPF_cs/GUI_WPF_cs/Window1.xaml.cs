@@ -25,19 +25,7 @@ namespace GUI_WPF_cs
             InitializeComponent();
         }
 
-        private void Button_Click1(object sender, RoutedEventArgs e)
-        {
-            MainContent.Children.Add(new MdiChild()
-            {
-                Title = "Window Home",
-                Name = "WindowHome",
-                Height = 549,
-                Width = 642,
-                Content = new stuffHome()
-            });
-        }
-
-        private void Button_Click2(object sender, RoutedEventArgs e)
+        private void MenuItem_New(object sender, RoutedEventArgs e)
         {
             MainContent.Children.Add(new MdiChild()
             {
@@ -49,7 +37,7 @@ namespace GUI_WPF_cs
             });
         }
 
-        private void Button_Click3(object sender, RoutedEventArgs e)
+        private void MenuItem_Open(object sender, RoutedEventArgs e)
         {
             MainContent.Children.Add(new MdiChild()
             {
@@ -59,6 +47,16 @@ namespace GUI_WPF_cs
                 Width = 463,
                 Content = new stuffOpen()
             });
+        }
+
+        private void MenuItem_Save(object sender, RoutedEventArgs e)
+        {
+            
+        }
+
+        private void MenuItem_Exit(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }

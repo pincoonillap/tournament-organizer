@@ -23,5 +23,10 @@ namespace GUI_WPF_cs.Content
         {
             InitializeComponent();
         }
+
+        private void buttonNew_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
