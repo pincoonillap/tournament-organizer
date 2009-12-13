@@ -9,7 +9,7 @@
         <CollectionViewSource x:Key="tournament_ResultsViewSource" Source="{Binding Path=Tournament_Results, Source={StaticResource TournamentDataSet}}" />
     </Window.Resources>
     <Grid DataContext="{StaticResource total_ResultsViewSource}" Height="403">
-        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="200" HorizontalAlignment="Left" ItemsSource="{Binding Source={StaticResource tournament_ResultsViewSource}}" Margin="74,150,0,0" Name="tournament_ResultsDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="479" SelectionChanged="tournament_ResultsDataGrid_SelectionChanged">
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="200" HorizontalAlignment="Left" ItemsSource="{Binding Source={StaticResource tournament_ResultsViewSource}}" Margin="58,150,0,0" Name="tournament_ResultsDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="510" SelectionChanged="tournament_ResultsDataGrid_SelectionChanged">
             <DataGrid.Columns>
                 <DataGridTextColumn x:Name="last_NameColumn" Binding="{Binding Path=Last Name}" Header="Last Name" Width="100" />
                 <DataGridTextColumn x:Name="first_NameColumn" Binding="{Binding Path=First Name}" Header="First Name" Width="100" />
@@ -23,10 +23,9 @@
         <Label Content="Date" FontFamily="Tahoma" FontSize="12" Height="28" HorizontalAlignment="Right" Margin="0,88,424,0" Name="label3" VerticalAlignment="Top" Width="37" />
         <Label Content="Number of Entrants" FontFamily="Tahoma" FontSize="12" Height="28" HorizontalAlignment="Right" Margin="0,124,413,0" Name="label4" VerticalAlignment="Top" Width="120" />
         <ListBox Height="28" HorizontalAlignment="Left" Margin="231,48,0,0" Name="listBox1" VerticalAlignment="Top" Width="161" SelectionChanged="listBox1_SelectionChanged_1">
-            <ListBoxItem Content="Winter Tourney" />
             <ListBoxItem Content="Fall Classic" />
         </ListBox>
-        <Label FontFamily="Tahoma" FontSize="11" Height="20" HorizontalAlignment="Right" Margin="0,90,312,0" Name="label5" VerticalAlignment="Top" Width="80" Background="#FFD8B1B1">
+        <Label FontFamily="Tahoma" FontSize="10" Height="20" HorizontalAlignment="Right" Margin="0,90,312,0" Name="label5" VerticalAlignment="Top" Width="80" Background="#FFD8B1B1" Content="09/29/09">
             <Label.BorderBrush>
                 <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
                     <GradientStop Color="Black" Offset="0" />
@@ -34,7 +33,7 @@
                 </LinearGradientBrush>
             </Label.BorderBrush>
         </Label>
-        <Label FontFamily="Tahoma" FontSize="11" Height="20" HorizontalAlignment="Right" Margin="0,124,312,0" Name="label6" VerticalAlignment="Top" Width="80" Background="#FFD8B1B1">
+        <Label FontFamily="Tahoma" FontSize="10" Height="20" HorizontalAlignment="Right" Margin="0,124,312,0" Name="label6" VerticalAlignment="Top" Width="80" Background="#FFD8B1B1" Content="8">
             <Label.BorderBrush>
                 <LinearGradientBrush EndPoint="1,0.5" StartPoint="0,0.5">
                     <GradientStop Color="Black" Offset="0" />
