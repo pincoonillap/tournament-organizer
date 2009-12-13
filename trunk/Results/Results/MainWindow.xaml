@@ -1,0 +1,26 @@
+﻿<Window x:Class="WpfApplication1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PlayerDatabase" Height="358" Width="697" xmlns:my="clr-namespace:WpfApplication1" Loaded="Window_Loaded" Background="SteelBlue">
+    <Window.Resources>
+        <my:PlayerInfoDataSet x:Key="PlayerInfoDataSet" />
+        <CollectionViewSource x:Key="total_ResultsViewSource" Source="{Binding Path=Total_Results, Source={StaticResource PlayerInfoDataSet}}" />
+    </Window.Resources>
+    <Grid Background="SteelBlue" DataContext="{StaticResource total_ResultsViewSource}" Height="435" Width="666">
+        <Button Content="Home" Height="23" HorizontalAlignment="Left" Margin="196,287,0,0" Name="button1" VerticalAlignment="Top" Width="100" Click="button1_Click" />
+        <GridSplitter Height="100" HorizontalAlignment="Left" Margin="226,106,0,0" Name="gridSplitter1" VerticalAlignment="Top" Width="10" DataContext="{Binding Path=LayoutTransform}" />
+        <DataGrid AutoGenerateColumns="False" EnableRowVirtualization="True" Height="208" HorizontalAlignment="Center" ItemsSource="{Binding}" Margin="90,64,98,0" Name="total_ResultsDataGrid" RowDetailsVisibilityMode="VisibleWhenSelected" VerticalAlignment="Top" Width="478" SelectionChanged="total_ResultsDataGrid_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="last_NameColumn" Binding="{Binding Path=Last Name}" Header="Last Name" Width="100"/>
+                <DataGridTextColumn x:Name="first_NameColumn" Binding="{Binding Path=First Name}" Header="First Name" Width="100" />
+                <DataGridTextColumn x:Name="emailColumn" Binding="{Binding Path=Email}" Header="Email" Width="150"/>
+                <DataGridTextColumn x:Name="tournaments_PlayedColumn" Binding="{Binding Path=Tournaments Played}" Header="Played" Width="50" />
+                <DataGridTextColumn x:Name="_Record__W_L_T_Column" Binding="{Binding Path=Record (W-L-T)}" Header="Record" Width="80" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label Content="Player Database" Height="49" HorizontalAlignment="Left" Margin="196,0,0,0" Name="label1" VerticalAlignment="Top" Width="283" FontFamily="Verdana" FontSize="32" />
+        <Button Content="Tourney Results" Height="23" HorizontalAlignment="Right" Margin="0,287,202,0" Name="button2" VerticalAlignment="Top" Width="100" />
+        <Image Height="57" HorizontalAlignment="Left" Margin="10,10,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="63" Source="/Results;component/Images/DSULogo.jpg" />
+        <Image Height="57" HorizontalAlignment="Left" Margin="582,12,0,0" Name="image2" Source="/Results;component/Images/DSULogo.jpg" Stretch="Fill" VerticalAlignment="Top" Width="63" />
+    </Grid>
+</Window>
